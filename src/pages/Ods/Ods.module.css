@@ -1,0 +1,24 @@
+.ods {
+    width: 100%;
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.descricao{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.descricao span{
+    color: #00303f;
+    font-weight: bold;
+}
+
+.textos h2,p{
+    margin-bottom: 1rem;
+}
